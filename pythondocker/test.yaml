@@ -1,0 +1,39 @@
+# Instruções para o programa
+nome: "Ronaldo"
+idade: 40
+
+# Este objeto descrve o nosso projeto
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 3.14
+
+string_sem_apastas: texto aqui
+texto: "Este com aspas"
+
+nulo: ~
+nulo_dois: null
+
+verdadeiro: true
+verdadeiro_dois: on
+
+falso: false
+falso_2: off
+
+lista: [1, 2, 3, 4, 5]
+
+lista_dois:
+  - "teste"
+  - 10
+  - outro teste
+  - true
+
+obj: {a: 1, b: 2, c: 3, objeto_interno: {a: 1}}
+
+objeto:
+  a: 1
+  b: 2
+  objeto_interno:
+    x: 2

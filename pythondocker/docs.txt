@@ -1,0 +1,6 @@
+1. criar virtual env
+    1.1 python3.9 -m venv venv
+    1.2 ./venv/bin/activate ou . venv/bin/activate
+
+2. unit test
+    2.1 no terminal python -m unittest discover -v(se estiver no venv)
