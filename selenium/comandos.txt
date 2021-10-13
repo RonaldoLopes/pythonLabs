@@ -1,0 +1,4 @@
+1 - instalar selenium
+    1.1 pip install selenium
+2 - acessar o pypi.org
+    2.1 procurar por selenium e achar o driver do navegador
