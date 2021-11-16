@@ -1,5 +1,9 @@
 # Vários exemplos de estudos sobre Python
+## DataBasePython
 ## Design Patterns contém diversos exemplos
-## Regex (Regular Expressions) 
-## DataBasePython(Exmplo simples com banco de dados)
 ## PythonDocker
+## Regex (Regular Expressions) 
+## Selenium
+## WebScraping
+
+
